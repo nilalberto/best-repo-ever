@@ -1,3 +1,2 @@
 # best-repo-ever
-testing nil 1
-branch 2
+testing nil branch 2
